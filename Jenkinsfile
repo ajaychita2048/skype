@@ -2,7 +2,7 @@ node {
 
     checkout scm
 
-    docker.withRegistry('https://registry.hub.docker.com', 'fe464498-42a9-49e5-a3c5-88b55b0f324b') {
+    docker.withRegistry('https://registry.hub.docker.com', '08a7a160-603c-4bc8-a000-6093b3931667') {
 
         def customImage = docker.build("7989461575/ajaytest")
 

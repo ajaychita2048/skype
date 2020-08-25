@@ -1,4 +1,4 @@
-docker build . -t 7989461575/ajaytest -f ./Dockerfile
+docker build . -t 7989461575/ajaytest -f ../Dockerfile
 
 docker images
 

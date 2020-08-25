@@ -1,4 +1,4 @@
-docker build -t miltonc/dockerwebapp .
+docker build -t 7989461575/ajaytest .
 
 docker images
 

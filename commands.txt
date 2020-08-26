@@ -1,5 +1,3 @@
-cd C:\Program Files (x86)\Jenkins\workspace\jenkins123
-
 docker build . -t 7989461575/ajaytest -f ../Dockerfile
 
 docker images
